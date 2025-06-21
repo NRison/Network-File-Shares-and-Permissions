@@ -7,7 +7,7 @@ This tutorial outlines how to assign different permissions to different types of
 
 - Giving administrative permissions and limiting permissions to specific users.
 - Verfying that permissions are active.
-- Set Up Rules
+  
   
 <h2>Configuration Steps</h2>
 
