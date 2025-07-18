@@ -9,7 +9,6 @@ This tutorial outlines how to assign different permissions to different types of
 - Verfying that permissions are active.
   
   
-<h2>Configuration Steps</h2>
 
 
 ![image](https://github.com/user-attachments/assets/f8c23556-c8e7-402c-9739-1de83c8ad9aa)  
